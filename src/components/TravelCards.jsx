@@ -7,7 +7,7 @@ export default function TravelCards(props) {
 
     return (
         <div className="travel--card">
-            <img src={`../public/images/${props.card.cardImage}`} className="card--image"></img>
+            <img src={`/public/images/${props.card.cardImage}`} className="card--image"></img>
             <div className="card--info">
                 <span className="location"> <FaMapMarkerAlt className="icon--marker" /> {props.card.location}
                     <a className="view--map" href={props.card.map} target="_blank">View on Google Maps</a>
