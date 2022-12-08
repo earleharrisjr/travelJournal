@@ -9,7 +9,7 @@ export default function TravelCards() {
         <div className="travel--card">
             <img src="public\images\maryWyoming.jpg" className="card--image"></img>
             <div className="card--info">
-                <span className="location"> <FaMapMarkerAlt className="icon--marker" /> JACKSON HOLE, WYOMING
+                <span className="location"> <FaMapMarkerAlt className="icon--marker" /> WYOMING
                     <a className="view--map" href="https://goo.gl/maps/R8GB28ULSJVVvaRt8" target="_blank">View on Google Maps</a>
                 </span>
 
