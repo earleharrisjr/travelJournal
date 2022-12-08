@@ -21,5 +21,7 @@
     text-align: center;
     background-color: #6d7e6f;
     color: #e9c6a6;
-    text-shadow: 1px 1px 2px black ;
+    text-shadow: 2px 2px 3px black ;
   }
+
+  .iconGlobe{filter:drop-shadow(1px 1px 2px rgb(0, 0, 0))}
