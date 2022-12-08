@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        cardImage: "maryWyoming.jpg",
+        cardImage: "https://i.ibb.co/bszQWZX/mary-Wyoming.jpg",
         location: "WYOMING",
         map: "https://goo.gl/maps/R8GB28ULSJVVvaRt8",
         landmark: "Grand Tetons",
@@ -10,7 +10,7 @@ export default [
     },
     {
         id: 2,
-        cardImage: "placidMountain.jpg",
+        cardImage: "https://i.ibb.co/Nx8HkVX/placid-Mountain.jpg",
         location: "NEW YORK",
         map: "https://goo.gl/maps/v8xr9B97vNRNiZmg8",
         landmark: "Lake Placid",
@@ -19,7 +19,7 @@ export default [
     },
     {
         id: 3,
-        cardImage: "disney2018.jpg",
+        cardImage: "https://i.ibb.co/ZHYrQ7R/disney2018.jpg",
         location: "FLORIDA",
         map: "https://goo.gl/maps/1hnJZMVAHbLA8XmR9",
         landmark: "Disney World",
